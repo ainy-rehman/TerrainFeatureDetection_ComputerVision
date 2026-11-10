@@ -12,7 +12,7 @@ Mapping Martian terrain by hand is slow and subjective. This project automates i
 **Detected classes:** bright dunes · dark dunes · craters · impact ejecta · slope streaks · spiders · Swiss cheese terrain
 
 The work was also presented orally at the **9th Arab Conference on Astronomy and Geophysics (ACAG-9), Cairo, October 2025**.
-![Abstract](https://docs.google.com/viewerng/viewer?url=https://acag-conf.org/wp-content/uploads/2025/10/ACAG9-Abstract-BOOK.pdf))
+**<a href="https://docs.google.com/viewerng/viewer?url=https://acag-conf.org/wp-content/uploads/2025/10/ACAG9-Abstract-BOOK.pdf" target="_blank">See Abstract Here</a>**
 
 ## Key Results
 
