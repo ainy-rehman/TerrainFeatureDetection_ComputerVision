@@ -2,10 +2,8 @@
 
 **A customized Faster R-CNN object detector that finds and classifies geological features in Martian surface imagery, deployed as an interactive web application.**
 
-MS Artificial Intelligence thesis · NED University of Engineering & Technology, Karachi
+MS Artificial Intelligence Thesis · NED University of Engineering & Technology, Karachi - Dec 2024
 Supervisors: Dr. Muhammad Ali Ismail and Uzair Abid
-
----
 
 ## Overview
 
@@ -13,7 +11,8 @@ Mapping Martian terrain by hand is slow and subjective. This project automates i
 
 **Detected classes:** bright dunes · dark dunes · craters · impact ejecta · slope streaks · spiders · Swiss cheese terrain
 
-The work was also presented orally at the **9th International Conference on Advanced Computational Applications and Geoinformatics (ACAG-9), Cairo, October 2025**.
+The work was also presented orally at the **9th Arab Conference on Astronomy and Geophysics (ACAG-9), Cairo, October 2025**.
+![Abstract](https://docs.google.com/viewerng/viewer?url=https://acag-conf.org/wp-content/uploads/2025/10/ACAG9-Abstract-BOOK.pdf))
 
 ## Key Results
 
