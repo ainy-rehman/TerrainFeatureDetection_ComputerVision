@@ -59,17 +59,6 @@ A React + TypeScript + Tailwind CSS frontend talks to a FastAPI backend that loa
 **Positive feedback submitted**
 ![Feedback submitted](docs/images/feedback.png)
 
-### Sample Images
-
-Try the app with the images in [`app/sample-images/`](app/sample-images/) (credit: [source, e.g. NASA/JPL/University of Arizona HiRISE]):
-
-| | | |
-|---|---|---|
-| ![Craters](app/sample-images/sample_crater.jpg) | ![Slope streaks](app/sample-images/sample_slope_streak.jpg) | ![Dunes](app/sample-images/sample_dune.jpg) |
-| Craters | Slope streaks | Dunes |
-
-<!-- Replace the three sample files above with your own small images (under about 200 KB each), and add or remove columns as needed. -->
-
 ## Repository Structure
 
 ```text
