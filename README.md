@@ -48,16 +48,16 @@ A high threshold keeps false positives low, which matters when detections inform
 A React + TypeScript + Tailwind CSS frontend talks to a FastAPI backend that loads the trained model and serves predictions. Users upload an image, get detected features with confidence scores, and can rate the result and leave comments, which are stored in a database for later model refinement.
 
 **Home page**
-![Home page](docs/images/home.png)
+![Home page](images/home.png)
 
 **Upload an image to run detection**
-![Image upload](docs/images/upload.png)
+![Image upload](images/upload.png)
 
 **Detection result with confidence score and feedback form**
-![Detection results](docs/images/results.png)
+![Detection results](images/result.png)
 
 **Positive feedback submitted**
-![Feedback submitted](docs/images/feedback.png)
+![Feedback submitted](images/feedback.png)
 
 ## Repository Structure
 
@@ -70,12 +70,11 @@ A React + TypeScript + Tailwind CSS frontend talks to a FastAPI backend that loa
 │   │   └── assets/         # Images used by the UI (logo, home page cards)
 │   ├── public/             # Static files served as-is
 │   └── sample-images/      # Small Mars images for trying the app
-├── docs/
-│   └── images/
-│       ├── home.png        # Home page screenshot
-│       ├── upload.png      # Upload screen screenshot
-│       ├── results.png     # Detection result + feedback form screenshot
-│       └── feedback.png    # Feedback submitted screenshot
+│── images/
+│    ├── home.png        # Home page screenshot
+│    ├── upload.png      # Upload screen screenshot
+│    ├── results.png     # Detection result + feedback form screenshot
+│    └── feedback.png    # Feedback submitted screenshot
 └── README.md
 ```
 
